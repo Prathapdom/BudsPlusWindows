@@ -85,3 +85,8 @@ To capture screenshots, use `tools\Capture-Window.ps1 -Out shot.png [-Key 0x23] 
 | `fakebuds.hpp` | Simulated earbuds over TCP, for the tests |
 | `tests.cpp`, `ui-tests.cpp` | Test suites |
 | `packaging/Make-Assets.ps1` | Draws the app icon |
+
+## License
+
+BudsPlus is licensed under the [GNU Affero General Public License v3.0](LICENSE).
+It ports the protocol and model data of [ear (web)](https://github.com/radiance-project/ear-web), which is AGPL-3.0.
